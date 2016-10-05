@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding-top: 50px;
+}
+.panel{
+    background: lightblue;
+}
+.panel > .panel-heading{
+    background: seagreen;
+    color: white;
+    border-color: blue;
+}
